@@ -1,0 +1,16 @@
+:vehicle:
+  :make: 'BMW'
+  :engine_performance: '5'
+  :date_of_manufacture: '10/22/2020'
+  :number_of_seats: '4'
+  :fuel_type: 'Gas'
+  :list_price: '1000'
+  :license_plate_number: '12345'
+  :annual_mileage: '10000'
+
+:product:
+  :start_date: '11/27/2021'
+  :insurance_sum: '10.000.000,00'
+  :merit_rating: 'Bonus 3'
+  :damage_insurance: 'Full Coverage'
+  :courtesy_car: 'Yes'
