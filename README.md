@@ -1,6 +1,6 @@
 # Teste Prático - Accenture
 
-Projeto: # Desafio Técnico - Selenium
+# Desafio Técnico - Selenium
 
 Projeto em selenium webdrive(ruby) e cucumber usando Page objects (precisamos executar o script através da feature);
 
