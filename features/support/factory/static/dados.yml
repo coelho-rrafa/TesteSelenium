@@ -14,3 +14,10 @@
   :merit_rating: 'Bonus 3'
   :damage_insurance: 'Full Coverage'
   :courtesy_car: 'Yes'
+
+:page:
+  :first_step: 'Enter Vehicle Data'
+  :second_step: 'Enter Insurant Data'
+  :third_step: 'Enter Product Data'
+  :fourth_step: 'Select Price Option'
+  :final_step: 'Send Quote'

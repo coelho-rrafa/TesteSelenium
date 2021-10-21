@@ -6,6 +6,11 @@ module Pages
 
     element :breadcrumb,                              '.breadcrumbs'
     element :span_message_alert,                      'div[data-animation=pop]'
+    element :step_active_vehicle_data,                '#entervehicledata'
+    element :step_active_insurant_data,               '#enterinsurantdata'
+    element :step_active_product_data,                '#enterproductdata'
+    element :step_active_price_option,                '#selectpriceoption'
+    element :step_active_send_quote,                  '#sendquote'
     section :insurance_form, Sections::InsuranceForm, '#insurance-form'
 
     def set_vehicle_data
